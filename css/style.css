@@ -308,4 +308,7 @@ nav,footer,header,section{
     line-height:4vh;
     margin:15px;
   }
+    .resume img{
+    display:none;
+  }
 }
