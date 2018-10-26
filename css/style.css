@@ -185,7 +185,7 @@ nav,footer,header,section{
   
   
   .resume{
-    position:absolute;
+    position:relative;
     margin-top: 10vh;
     margin-left:auto;
     margin-right:auto;
