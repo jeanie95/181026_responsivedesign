@@ -303,4 +303,9 @@ nav,footer,header,section{
     font-size: 10pt;
     line-height: 4vh;
   }
+    .resume {
+    font-size: 10pt;
+    line-height:4vh;
+    margin:15px;
+  }
 }
